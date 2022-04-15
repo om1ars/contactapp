@@ -1,4 +1,4 @@
-cd api and run -> npm install, then npm start. create .env file and put this "mongodb+srv://omar:muhammadsav@cluster0.r9xug.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" into MONGO_URL variable
+cd api and run -> npm install, then npm start. create .env file and put this "mongodb+srv://omar:contactapp@cluster0.r9xug.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" into MONGO_URL variable
 
 
 cd client and run -> npm install, then npm start
