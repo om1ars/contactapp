@@ -1,0 +1,9 @@
+cd api and run -> npm install, then npm start
+
+
+cd client and run -> npm install, then npm start
+
+Made with love by omar
+
+
+You can delete only your contacts, you can see others contacts but cannot delete or update it
